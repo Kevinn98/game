@@ -36,7 +36,7 @@ document.querySelector('.check').addEventListener('click', () => {
 
       // bug here
       // document.querySelector('.h1').textContent = `you so Cool! 👏`;
-      displayText(`you so Cool! 👏`);
+      displayText(`you're awesome 🙌`);
     }
   }
 
