@@ -12,7 +12,7 @@ const displayMessage = message => {
 const displayText = text => {
   document.querySelector('.h1').textContent = text;
 };
-console.log(`this is the ans ${rightAns}`);
+console.log(`Hello there thanks for visiting my game :)`);
 
 // check function to guess the number
 document.querySelector('.check').addEventListener('click', () => {
